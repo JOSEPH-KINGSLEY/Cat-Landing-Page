@@ -1,0 +1,51 @@
+.container{
+  text-align: center;
+  display: flex;
+  padding: 10px 3px 10px 3px;
+ box-shadow: 0cap;
+}
+.header{
+  padding: 15px 5px 10px 5px;
+  text-align: center;
+   border: 3px solid black; 
+   margin: 8px 0px;
+}
+.nav{
+  height:10px;
+   border-width:60%;
+   color:gray;
+   background-color:gray;
+   padding: 15px;
+   text-align: center;
+   background: #605d5d;
+}
+.title{
+  padding: 15px 5px 10px 5px;
+  text-align: center;
+}
+
+.group1{
+  display: grid;
+  margin-left: 200px;
+}
+.group2{
+  width: 49%;
+  margin-left: 70px;
+
+}
+.group3{
+  width: 50%;
+  margin-left: 60px;
+
+}
+
+a{
+  color: white;
+ 
+}
+
+body{
+  justify-content: center;
+  max-width: 650px;
+  margin-left: 300px;
+}
